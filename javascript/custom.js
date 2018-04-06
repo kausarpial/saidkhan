@@ -68,8 +68,8 @@
         function initPortfolio() {
 
             /***PORTFOLIO GALLERY***/
-            var all = '#a,#b,#c';
-            var afterFirst = '#b,#c';
+            var all = '#a,#b,#c,#d';
+            var afterFirst = '#b,#c,#d';
             var addButton = '#add-more';
             var addButtonIcon = '#port-add-icon';
             var otherOption = 'a.cate';
