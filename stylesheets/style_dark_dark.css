@@ -697,7 +697,7 @@ body.scale-effect .btn-holder .btn-play {
     height: 370px;
     background: url(../images/backgrounds/background.jpg) no-repeat;
     background-size: cover;
-    background-position: center center;
+    background-position: center bottom;
     background-attachment: fixed; }
 
 /*-------------------------------------------------------------------------------
